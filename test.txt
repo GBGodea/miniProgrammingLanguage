@@ -1,0 +1,17 @@
+hello = new
+message = newnew
+valOf(hello)
+new = hello + message
+valOf(new)
+meth@ 
+num = 1
+next = next
+exec meth
+valOf(num)
+valOf(next)
+plusNums@ 
+number = 127
+numberNext = 25
+result = number + numberNext
+exec plusNums
+valOf(result)
